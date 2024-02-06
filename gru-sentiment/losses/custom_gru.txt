@@ -1,0 +1,364 @@
+[epoch:1  iter: 200  elapsed_time:  16 secs]     loss: 0.69066
+[epoch:1  iter: 400  elapsed_time:  29 secs]     loss: 0.69300
+[epoch:1  iter: 600  elapsed_time:  44 secs]     loss: 0.67121
+[epoch:1  iter: 800  elapsed_time:  60 secs]     loss: 0.67618
+[epoch:1  iter:1000  elapsed_time:  71 secs]     loss: 0.63988
+[epoch:1  iter:1200  elapsed_time:  84 secs]     loss: 0.61061
+[epoch:1  iter:1400  elapsed_time:  95 secs]     loss: 0.58881
+[epoch:1  iter:1600  elapsed_time: 108 secs]     loss: 0.57768
+[epoch:1  iter:1800  elapsed_time: 120 secs]     loss: 0.55440
+[epoch:1  iter:2000  elapsed_time: 132 secs]     loss: 0.62238
+[epoch:1  iter:2200  elapsed_time: 144 secs]     loss: 0.61988
+[epoch:1  iter:2400  elapsed_time: 159 secs]     loss: 0.55351
+[epoch:1  iter:2600  elapsed_time: 171 secs]     loss: 0.53689
+[epoch:1  iter:2800  elapsed_time: 183 secs]     loss: 0.56273
+[epoch:1  iter:3000  elapsed_time: 194 secs]     loss: 0.43474
+[epoch:1  iter:3200  elapsed_time: 206 secs]     loss: 0.60924
+[epoch:1  iter:3400  elapsed_time: 218 secs]     loss: 0.59131
+[epoch:1  iter:3600  elapsed_time: 230 secs]     loss: 0.56238
+[epoch:1  iter:3800  elapsed_time: 242 secs]     loss: 0.58161
+[epoch:1  iter:4000  elapsed_time: 254 secs]     loss: 0.61153
+[epoch:1  iter:4200  elapsed_time: 267 secs]     loss: 0.58625
+[epoch:1  iter:4400  elapsed_time: 279 secs]     loss: 0.57101
+[epoch:1  iter:4600  elapsed_time: 292 secs]     loss: 0.55313
+[epoch:1  iter:4800  elapsed_time: 303 secs]     loss: 0.53720
+[epoch:1  iter:5000  elapsed_time: 315 secs]     loss: 0.60902
+[epoch:1  iter:5200  elapsed_time: 327 secs]     loss: 0.51094
+[epoch:1  iter:5400  elapsed_time: 338 secs]     loss: 0.58446
+[epoch:1  iter:5600  elapsed_time: 351 secs]     loss: 0.53583
+[epoch:1  iter:5800  elapsed_time: 362 secs]     loss: 0.48127
+[epoch:1  iter:6000  elapsed_time: 375 secs]     loss: 0.53135
+[epoch:1  iter:6200  elapsed_time: 387 secs]     loss: 0.53442
+[epoch:1  iter:6400  elapsed_time: 399 secs]     loss: 0.50562
+[epoch:1  iter:6600  elapsed_time: 411 secs]     loss: 0.57929
+[epoch:1  iter:6800  elapsed_time: 424 secs]     loss: 0.59830
+[epoch:1  iter:7000  elapsed_time: 436 secs]     loss: 0.57845
+[epoch:1  iter:7200  elapsed_time: 447 secs]     loss: 0.58661
+[epoch:1  iter:7400  elapsed_time: 461 secs]     loss: 0.52135
+[epoch:1  iter:7600  elapsed_time: 473 secs]     loss: 0.49178
+[epoch:1  iter:7800  elapsed_time: 485 secs]     loss: 0.51685
+[epoch:1  iter:8000  elapsed_time: 497 secs]     loss: 0.47932
+[epoch:1  iter:8200  elapsed_time: 509 secs]     loss: 0.47995
+[epoch:1  iter:8400  elapsed_time: 520 secs]     loss: 0.42032
+[epoch:1  iter:8600  elapsed_time: 532 secs]     loss: 0.47357
+[epoch:1  iter:8800  elapsed_time: 546 secs]     loss: 0.46795
+[epoch:1  iter:9000  elapsed_time: 556 secs]     loss: 0.51930
+[epoch:1  iter:9200  elapsed_time: 568 secs]     loss: 0.50279
+[epoch:1  iter:9400  elapsed_time: 580 secs]     loss: 0.44782
+[epoch:1  iter:9600  elapsed_time: 593 secs]     loss: 0.49524
+[epoch:1  iter:9800  elapsed_time: 604 secs]     loss: 0.45306
+[epoch:1  iter:10000  elapsed_time: 616 secs]     loss: 0.47679
+[epoch:1  iter:10200  elapsed_time: 627 secs]     loss: 0.46917
+[epoch:1  iter:10400  elapsed_time: 639 secs]     loss: 0.40958
+[epoch:1  iter:10600  elapsed_time: 651 secs]     loss: 0.50191
+[epoch:1  iter:10800  elapsed_time: 663 secs]     loss: 0.45715
+[epoch:1  iter:11000  elapsed_time: 675 secs]     loss: 0.42798
+[epoch:1  iter:11200  elapsed_time: 687 secs]     loss: 0.47503
+[epoch:1  iter:11400  elapsed_time: 700 secs]     loss: 0.46901
+[epoch:1  iter:11600  elapsed_time: 711 secs]     loss: 0.41796
+[epoch:1  iter:11800  elapsed_time: 722 secs]     loss: 0.35764
+[epoch:1  iter:12000  elapsed_time: 734 secs]     loss: 0.48406
+[epoch:1  iter:12200  elapsed_time: 745 secs]     loss: 0.37228
+[epoch:1  iter:12400  elapsed_time: 756 secs]     loss: 0.43834
+[epoch:1  iter:12600  elapsed_time: 768 secs]     loss: 0.46188
+[epoch:1  iter:12800  elapsed_time: 779 secs]     loss: 0.44480
+[epoch:1  iter:13000  elapsed_time: 791 secs]     loss: 0.44169
+[epoch:1  iter:13200  elapsed_time: 802 secs]     loss: 0.42354
+[epoch:1  iter:13400  elapsed_time: 815 secs]     loss: 0.37931
+[epoch:1  iter:13600  elapsed_time: 828 secs]     loss: 0.44296
+[epoch:1  iter:13800  elapsed_time: 840 secs]     loss: 0.37671
+[epoch:1  iter:14000  elapsed_time: 853 secs]     loss: 0.38341
+[epoch:1  iter:14200  elapsed_time: 865 secs]     loss: 0.35455
+
+[epoch:2  iter: 200  elapsed_time: 878 secs]     loss: 0.43459
+[epoch:2  iter: 400  elapsed_time: 891 secs]     loss: 0.41273
+[epoch:2  iter: 600  elapsed_time: 903 secs]     loss: 0.40269
+[epoch:2  iter: 800  elapsed_time: 916 secs]     loss: 0.36007
+[epoch:2  iter:1000  elapsed_time: 928 secs]     loss: 0.41067
+[epoch:2  iter:1200  elapsed_time: 938 secs]     loss: 0.41257
+[epoch:2  iter:1400  elapsed_time: 949 secs]     loss: 0.38382
+[epoch:2  iter:1600  elapsed_time: 959 secs]     loss: 0.35292
+[epoch:2  iter:1800  elapsed_time: 972 secs]     loss: 0.42891
+[epoch:2  iter:2000  elapsed_time: 983 secs]     loss: 0.35916
+[epoch:2  iter:2200  elapsed_time: 995 secs]     loss: 0.39140
+[epoch:2  iter:2400  elapsed_time:1007 secs]     loss: 0.37687
+[epoch:2  iter:2600  elapsed_time:1018 secs]     loss: 0.35655
+[epoch:2  iter:2800  elapsed_time:1029 secs]     loss: 0.35284
+[epoch:2  iter:3000  elapsed_time:1041 secs]     loss: 0.41842
+[epoch:2  iter:3200  elapsed_time:1053 secs]     loss: 0.39158
+[epoch:2  iter:3400  elapsed_time:1066 secs]     loss: 0.35193
+[epoch:2  iter:3600  elapsed_time:1077 secs]     loss: 0.37493
+[epoch:2  iter:3800  elapsed_time:1088 secs]     loss: 0.35976
+[epoch:2  iter:4000  elapsed_time:1099 secs]     loss: 0.33078
+[epoch:2  iter:4200  elapsed_time:1112 secs]     loss: 0.40998
+[epoch:2  iter:4400  elapsed_time:1124 secs]     loss: 0.37383
+[epoch:2  iter:4600  elapsed_time:1136 secs]     loss: 0.34933
+[epoch:2  iter:4800  elapsed_time:1147 secs]     loss: 0.36970
+[epoch:2  iter:5000  elapsed_time:1159 secs]     loss: 0.39020
+[epoch:2  iter:5200  elapsed_time:1170 secs]     loss: 0.40931
+[epoch:2  iter:5400  elapsed_time:1180 secs]     loss: 0.33808
+[epoch:2  iter:5600  elapsed_time:1191 secs]     loss: 0.34217
+[epoch:2  iter:5800  elapsed_time:1204 secs]     loss: 0.41714
+[epoch:2  iter:6000  elapsed_time:1216 secs]     loss: 0.39200
+[epoch:2  iter:6200  elapsed_time:1227 secs]     loss: 0.30238
+[epoch:2  iter:6400  elapsed_time:1239 secs]     loss: 0.37806
+[epoch:2  iter:6600  elapsed_time:1251 secs]     loss: 0.34464
+[epoch:2  iter:6800  elapsed_time:1263 secs]     loss: 0.34280
+[epoch:2  iter:7000  elapsed_time:1274 secs]     loss: 0.38329
+[epoch:2  iter:7200  elapsed_time:1286 secs]     loss: 0.38391
+[epoch:2  iter:7400  elapsed_time:1296 secs]     loss: 0.42490
+[epoch:2  iter:7600  elapsed_time:1308 secs]     loss: 0.36953
+[epoch:2  iter:7800  elapsed_time:1321 secs]     loss: 0.42521
+[epoch:2  iter:8000  elapsed_time:1332 secs]     loss: 0.35562
+[epoch:2  iter:8200  elapsed_time:1343 secs]     loss: 0.33387
+[epoch:2  iter:8400  elapsed_time:1356 secs]     loss: 0.37053
+[epoch:2  iter:8600  elapsed_time:1366 secs]     loss: 0.30552
+[epoch:2  iter:8800  elapsed_time:1376 secs]     loss: 0.32719
+[epoch:2  iter:9000  elapsed_time:1388 secs]     loss: 0.33351
+[epoch:2  iter:9200  elapsed_time:1401 secs]     loss: 0.38328
+[epoch:2  iter:9400  elapsed_time:1412 secs]     loss: 0.35258
+[epoch:2  iter:9600  elapsed_time:1426 secs]     loss: 0.41000
+[epoch:2  iter:9800  elapsed_time:1437 secs]     loss: 0.41167
+[epoch:2  iter:10000  elapsed_time:1448 secs]     loss: 0.33679
+[epoch:2  iter:10200  elapsed_time:1460 secs]     loss: 0.39973
+[epoch:2  iter:10400  elapsed_time:1470 secs]     loss: 0.29026
+[epoch:2  iter:10600  elapsed_time:1481 secs]     loss: 0.35507
+[epoch:2  iter:10800  elapsed_time:1491 secs]     loss: 0.34736
+[epoch:2  iter:11000  elapsed_time:1502 secs]     loss: 0.33065
+[epoch:2  iter:11200  elapsed_time:1513 secs]     loss: 0.36195
+[epoch:2  iter:11400  elapsed_time:1524 secs]     loss: 0.29997
+[epoch:2  iter:11600  elapsed_time:1536 secs]     loss: 0.34296
+[epoch:2  iter:11800  elapsed_time:1546 secs]     loss: 0.36348
+[epoch:2  iter:12000  elapsed_time:1558 secs]     loss: 0.36923
+[epoch:2  iter:12200  elapsed_time:1572 secs]     loss: 0.44686
+[epoch:2  iter:12400  elapsed_time:1584 secs]     loss: 0.40104
+[epoch:2  iter:12600  elapsed_time:1596 secs]     loss: 0.33057
+[epoch:2  iter:12800  elapsed_time:1609 secs]     loss: 0.34994
+[epoch:2  iter:13000  elapsed_time:1622 secs]     loss: 0.28270
+[epoch:2  iter:13200  elapsed_time:1634 secs]     loss: 0.36235
+[epoch:2  iter:13400  elapsed_time:1645 secs]     loss: 0.36081
+[epoch:2  iter:13600  elapsed_time:1656 secs]     loss: 0.38617
+[epoch:2  iter:13800  elapsed_time:1667 secs]     loss: 0.35189
+[epoch:2  iter:14000  elapsed_time:1678 secs]     loss: 0.35248
+[epoch:2  iter:14200  elapsed_time:1689 secs]     loss: 0.30153
+
+[epoch:3  iter: 200  elapsed_time:1702 secs]     loss: 0.25517
+[epoch:3  iter: 400  elapsed_time:1713 secs]     loss: 0.36463
+[epoch:3  iter: 600  elapsed_time:1725 secs]     loss: 0.28322
+[epoch:3  iter: 800  elapsed_time:1737 secs]     loss: 0.40343
+[epoch:3  iter:1000  elapsed_time:1749 secs]     loss: 0.29196
+[epoch:3  iter:1200  elapsed_time:1762 secs]     loss: 0.35777
+[epoch:3  iter:1400  elapsed_time:1772 secs]     loss: 0.30405
+[epoch:3  iter:1600  elapsed_time:1784 secs]     loss: 0.28747
+[epoch:3  iter:1800  elapsed_time:1796 secs]     loss: 0.32839
+[epoch:3  iter:2000  elapsed_time:1811 secs]     loss: 0.28098
+[epoch:3  iter:2200  elapsed_time:1827 secs]     loss: 0.25075
+[epoch:3  iter:2400  elapsed_time:1837 secs]     loss: 0.35185
+[epoch:3  iter:2600  elapsed_time:1849 secs]     loss: 0.30601
+[epoch:3  iter:2800  elapsed_time:1860 secs]     loss: 0.34526
+[epoch:3  iter:3000  elapsed_time:1871 secs]     loss: 0.29439
+[epoch:3  iter:3200  elapsed_time:1882 secs]     loss: 0.31554
+[epoch:3  iter:3400  elapsed_time:1892 secs]     loss: 0.29423
+[epoch:3  iter:3600  elapsed_time:1905 secs]     loss: 0.31724
+[epoch:3  iter:3800  elapsed_time:1916 secs]     loss: 0.33893
+[epoch:3  iter:4000  elapsed_time:1929 secs]     loss: 0.29984
+[epoch:3  iter:4200  elapsed_time:1941 secs]     loss: 0.34574
+[epoch:3  iter:4400  elapsed_time:1952 secs]     loss: 0.42454
+[epoch:3  iter:4600  elapsed_time:1966 secs]     loss: 0.28002
+[epoch:3  iter:4800  elapsed_time:1977 secs]     loss: 0.28421
+[epoch:3  iter:5000  elapsed_time:1989 secs]     loss: 0.29833
+[epoch:3  iter:5200  elapsed_time:2001 secs]     loss: 0.31852
+[epoch:3  iter:5400  elapsed_time:2013 secs]     loss: 0.29581
+[epoch:3  iter:5600  elapsed_time:2028 secs]     loss: 0.35501
+[epoch:3  iter:5800  elapsed_time:2040 secs]     loss: 0.27533
+[epoch:3  iter:6000  elapsed_time:2055 secs]     loss: 0.29836
+[epoch:3  iter:6200  elapsed_time:2065 secs]     loss: 0.37716
+[epoch:3  iter:6400  elapsed_time:2077 secs]     loss: 0.27327
+[epoch:3  iter:6600  elapsed_time:2090 secs]     loss: 0.33498
+[epoch:3  iter:6800  elapsed_time:2103 secs]     loss: 0.37110
+[epoch:3  iter:7000  elapsed_time:2116 secs]     loss: 0.28805
+[epoch:3  iter:7200  elapsed_time:2128 secs]     loss: 0.33069
+[epoch:3  iter:7400  elapsed_time:2139 secs]     loss: 0.27176
+[epoch:3  iter:7600  elapsed_time:2152 secs]     loss: 0.25871
+[epoch:3  iter:7800  elapsed_time:2163 secs]     loss: 0.33873
+[epoch:3  iter:8000  elapsed_time:2174 secs]     loss: 0.30129
+[epoch:3  iter:8200  elapsed_time:2187 secs]     loss: 0.27655
+[epoch:3  iter:8400  elapsed_time:2200 secs]     loss: 0.33886
+[epoch:3  iter:8600  elapsed_time:2214 secs]     loss: 0.28830
+[epoch:3  iter:8800  elapsed_time:2224 secs]     loss: 0.41849
+[epoch:3  iter:9000  elapsed_time:2238 secs]     loss: 0.29842
+[epoch:3  iter:9200  elapsed_time:2249 secs]     loss: 0.30649
+[epoch:3  iter:9400  elapsed_time:2262 secs]     loss: 0.26346
+[epoch:3  iter:9600  elapsed_time:2274 secs]     loss: 0.31565
+[epoch:3  iter:9800  elapsed_time:2285 secs]     loss: 0.25125
+[epoch:3  iter:10000  elapsed_time:2297 secs]     loss: 0.31378
+[epoch:3  iter:10200  elapsed_time:2310 secs]     loss: 0.32107
+[epoch:3  iter:10400  elapsed_time:2320 secs]     loss: 0.26286
+[epoch:3  iter:10600  elapsed_time:2333 secs]     loss: 0.30757
+[epoch:3  iter:10800  elapsed_time:2344 secs]     loss: 0.26497
+[epoch:3  iter:11000  elapsed_time:2356 secs]     loss: 0.35605
+[epoch:3  iter:11200  elapsed_time:2369 secs]     loss: 0.27496
+[epoch:3  iter:11400  elapsed_time:2380 secs]     loss: 0.28299
+[epoch:3  iter:11600  elapsed_time:2391 secs]     loss: 0.26923
+[epoch:3  iter:11800  elapsed_time:2403 secs]     loss: 0.25346
+[epoch:3  iter:12000  elapsed_time:2414 secs]     loss: 0.24507
+[epoch:3  iter:12200  elapsed_time:2428 secs]     loss: 0.30177
+[epoch:3  iter:12400  elapsed_time:2438 secs]     loss: 0.34358
+[epoch:3  iter:12600  elapsed_time:2448 secs]     loss: 0.25887
+[epoch:3  iter:12800  elapsed_time:2459 secs]     loss: 0.30915
+[epoch:3  iter:13000  elapsed_time:2469 secs]     loss: 0.26468
+[epoch:3  iter:13200  elapsed_time:2480 secs]     loss: 0.36018
+[epoch:3  iter:13400  elapsed_time:2491 secs]     loss: 0.30303
+[epoch:3  iter:13600  elapsed_time:2505 secs]     loss: 0.33503
+[epoch:3  iter:13800  elapsed_time:2518 secs]     loss: 0.29906
+[epoch:3  iter:14000  elapsed_time:2529 secs]     loss: 0.24706
+[epoch:3  iter:14200  elapsed_time:2541 secs]     loss: 0.35947
+
+[epoch:4  iter: 200  elapsed_time:2554 secs]     loss: 0.28220
+[epoch:4  iter: 400  elapsed_time:2567 secs]     loss: 0.25193
+[epoch:4  iter: 600  elapsed_time:2581 secs]     loss: 0.27595
+[epoch:4  iter: 800  elapsed_time:2593 secs]     loss: 0.30852
+[epoch:4  iter:1000  elapsed_time:2605 secs]     loss: 0.28781
+[epoch:4  iter:1200  elapsed_time:2617 secs]     loss: 0.27315
+[epoch:4  iter:1400  elapsed_time:2628 secs]     loss: 0.31864
+[epoch:4  iter:1600  elapsed_time:2639 secs]     loss: 0.26436
+[epoch:4  iter:1800  elapsed_time:2652 secs]     loss: 0.25625
+[epoch:4  iter:2000  elapsed_time:2663 secs]     loss: 0.27690
+[epoch:4  iter:2200  elapsed_time:2676 secs]     loss: 0.27126
+[epoch:4  iter:2400  elapsed_time:2687 secs]     loss: 0.20148
+[epoch:4  iter:2600  elapsed_time:2698 secs]     loss: 0.28539
+[epoch:4  iter:2800  elapsed_time:2711 secs]     loss: 0.20611
+[epoch:4  iter:3000  elapsed_time:2722 secs]     loss: 0.25225
+[epoch:4  iter:3200  elapsed_time:2734 secs]     loss: 0.24853
+[epoch:4  iter:3400  elapsed_time:2745 secs]     loss: 0.25382
+[epoch:4  iter:3600  elapsed_time:2757 secs]     loss: 0.25909
+[epoch:4  iter:3800  elapsed_time:2768 secs]     loss: 0.31667
+[epoch:4  iter:4000  elapsed_time:2780 secs]     loss: 0.25608
+[epoch:4  iter:4200  elapsed_time:2796 secs]     loss: 0.24947
+[epoch:4  iter:4400  elapsed_time:2808 secs]     loss: 0.25764
+[epoch:4  iter:4600  elapsed_time:2821 secs]     loss: 0.26576
+[epoch:4  iter:4800  elapsed_time:2833 secs]     loss: 0.32332
+[epoch:4  iter:5000  elapsed_time:2845 secs]     loss: 0.26024
+[epoch:4  iter:5200  elapsed_time:2854 secs]     loss: 0.31924
+[epoch:4  iter:5400  elapsed_time:2865 secs]     loss: 0.26347
+[epoch:4  iter:5600  elapsed_time:2876 secs]     loss: 0.26344
+[epoch:4  iter:5800  elapsed_time:2887 secs]     loss: 0.23135
+[epoch:4  iter:6000  elapsed_time:2898 secs]     loss: 0.25190
+[epoch:4  iter:6200  elapsed_time:2909 secs]     loss: 0.27032
+[epoch:4  iter:6400  elapsed_time:2920 secs]     loss: 0.22100
+[epoch:4  iter:6600  elapsed_time:2932 secs]     loss: 0.19419
+[epoch:4  iter:6800  elapsed_time:2942 secs]     loss: 0.32336
+[epoch:4  iter:7000  elapsed_time:2955 secs]     loss: 0.24672
+[epoch:4  iter:7200  elapsed_time:2966 secs]     loss: 0.23590
+[epoch:4  iter:7400  elapsed_time:2979 secs]     loss: 0.27087
+[epoch:4  iter:7600  elapsed_time:2992 secs]     loss: 0.26763
+[epoch:4  iter:7800  elapsed_time:3005 secs]     loss: 0.30905
+[epoch:4  iter:8000  elapsed_time:3017 secs]     loss: 0.30412
+[epoch:4  iter:8200  elapsed_time:3029 secs]     loss: 0.28603
+[epoch:4  iter:8400  elapsed_time:3042 secs]     loss: 0.29641
+[epoch:4  iter:8600  elapsed_time:3054 secs]     loss: 0.19546
+[epoch:4  iter:8800  elapsed_time:3064 secs]     loss: 0.28335
+[epoch:4  iter:9000  elapsed_time:3076 secs]     loss: 0.27402
+[epoch:4  iter:9200  elapsed_time:3087 secs]     loss: 0.28608
+[epoch:4  iter:9400  elapsed_time:3098 secs]     loss: 0.24724
+[epoch:4  iter:9600  elapsed_time:3110 secs]     loss: 0.32327
+[epoch:4  iter:9800  elapsed_time:3122 secs]     loss: 0.23306
+[epoch:4  iter:10000  elapsed_time:3134 secs]     loss: 0.36734
+[epoch:4  iter:10200  elapsed_time:3148 secs]     loss: 0.27767
+[epoch:4  iter:10400  elapsed_time:3162 secs]     loss: 0.28217
+[epoch:4  iter:10600  elapsed_time:3173 secs]     loss: 0.27147
+[epoch:4  iter:10800  elapsed_time:3185 secs]     loss: 0.28454
+[epoch:4  iter:11000  elapsed_time:3197 secs]     loss: 0.27228
+[epoch:4  iter:11200  elapsed_time:3208 secs]     loss: 0.35070
+[epoch:4  iter:11400  elapsed_time:3220 secs]     loss: 0.26632
+[epoch:4  iter:11600  elapsed_time:3232 secs]     loss: 0.26106
+[epoch:4  iter:11800  elapsed_time:3244 secs]     loss: 0.19583
+[epoch:4  iter:12000  elapsed_time:3256 secs]     loss: 0.29103
+[epoch:4  iter:12200  elapsed_time:3266 secs]     loss: 0.26361
+[epoch:4  iter:12400  elapsed_time:3276 secs]     loss: 0.26850
+[epoch:4  iter:12600  elapsed_time:3288 secs]     loss: 0.26206
+[epoch:4  iter:12800  elapsed_time:3299 secs]     loss: 0.28085
+[epoch:4  iter:13000  elapsed_time:3310 secs]     loss: 0.28046
+[epoch:4  iter:13200  elapsed_time:3323 secs]     loss: 0.30079
+[epoch:4  iter:13400  elapsed_time:3333 secs]     loss: 0.22610
+[epoch:4  iter:13600  elapsed_time:3345 secs]     loss: 0.29127
+[epoch:4  iter:13800  elapsed_time:3354 secs]     loss: 0.23451
+[epoch:4  iter:14000  elapsed_time:3367 secs]     loss: 0.20436
+[epoch:4  iter:14200  elapsed_time:3378 secs]     loss: 0.28911
+
+[epoch:5  iter: 200  elapsed_time:3392 secs]     loss: 0.22704
+[epoch:5  iter: 400  elapsed_time:3405 secs]     loss: 0.22966
+[epoch:5  iter: 600  elapsed_time:3414 secs]     loss: 0.27426
+[epoch:5  iter: 800  elapsed_time:3426 secs]     loss: 0.17430
+[epoch:5  iter:1000  elapsed_time:3439 secs]     loss: 0.20336
+[epoch:5  iter:1200  elapsed_time:3451 secs]     loss: 0.23893
+[epoch:5  iter:1400  elapsed_time:3465 secs]     loss: 0.22893
+[epoch:5  iter:1600  elapsed_time:3479 secs]     loss: 0.25521
+[epoch:5  iter:1800  elapsed_time:3490 secs]     loss: 0.25606
+[epoch:5  iter:2000  elapsed_time:3502 secs]     loss: 0.18029
+[epoch:5  iter:2200  elapsed_time:3514 secs]     loss: 0.27331
+[epoch:5  iter:2400  elapsed_time:3526 secs]     loss: 0.22824
+[epoch:5  iter:2600  elapsed_time:3542 secs]     loss: 0.20296
+[epoch:5  iter:2800  elapsed_time:3555 secs]     loss: 0.25159
+[epoch:5  iter:3000  elapsed_time:3569 secs]     loss: 0.27105
+[epoch:5  iter:3200  elapsed_time:3581 secs]     loss: 0.24951
+[epoch:5  iter:3400  elapsed_time:3593 secs]     loss: 0.19314
+[epoch:5  iter:3600  elapsed_time:3605 secs]     loss: 0.18928
+[epoch:5  iter:3800  elapsed_time:3619 secs]     loss: 0.20080
+[epoch:5  iter:4000  elapsed_time:3629 secs]     loss: 0.26712
+[epoch:5  iter:4200  elapsed_time:3641 secs]     loss: 0.23678
+[epoch:5  iter:4400  elapsed_time:3653 secs]     loss: 0.26947
+[epoch:5  iter:4600  elapsed_time:3664 secs]     loss: 0.17954
+[epoch:5  iter:4800  elapsed_time:3676 secs]     loss: 0.28177
+[epoch:5  iter:5000  elapsed_time:3687 secs]     loss: 0.20571
+[epoch:5  iter:5200  elapsed_time:3701 secs]     loss: 0.27156
+[epoch:5  iter:5400  elapsed_time:3714 secs]     loss: 0.25040
+[epoch:5  iter:5600  elapsed_time:3725 secs]     loss: 0.18202
+[epoch:5  iter:5800  elapsed_time:3738 secs]     loss: 0.30154
+[epoch:5  iter:6000  elapsed_time:3750 secs]     loss: 0.19001
+[epoch:5  iter:6200  elapsed_time:3761 secs]     loss: 0.26203
+[epoch:5  iter:6400  elapsed_time:3772 secs]     loss: 0.24204
+[epoch:5  iter:6600  elapsed_time:3783 secs]     loss: 0.23657
+[epoch:5  iter:6800  elapsed_time:3795 secs]     loss: 0.20048
+[epoch:5  iter:7000  elapsed_time:3807 secs]     loss: 0.18798
+[epoch:5  iter:7200  elapsed_time:3817 secs]     loss: 0.21510
+[epoch:5  iter:7400  elapsed_time:3828 secs]     loss: 0.22809
+[epoch:5  iter:7600  elapsed_time:3840 secs]     loss: 0.31044
+[epoch:5  iter:7800  elapsed_time:3851 secs]     loss: 0.20420
+[epoch:5  iter:8000  elapsed_time:3865 secs]     loss: 0.22945
+[epoch:5  iter:8200  elapsed_time:3877 secs]     loss: 0.26304
+[epoch:5  iter:8400  elapsed_time:3888 secs]     loss: 0.20936
+[epoch:5  iter:8600  elapsed_time:3901 secs]     loss: 0.21099
+[epoch:5  iter:8800  elapsed_time:3914 secs]     loss: 0.28180
+[epoch:5  iter:9000  elapsed_time:3927 secs]     loss: 0.21398
+[epoch:5  iter:9200  elapsed_time:3938 secs]     loss: 0.26413
+[epoch:5  iter:9400  elapsed_time:3951 secs]     loss: 0.22781
+[epoch:5  iter:9600  elapsed_time:3962 secs]     loss: 0.27279
+[epoch:5  iter:9800  elapsed_time:3972 secs]     loss: 0.20283
+[epoch:5  iter:10000  elapsed_time:3985 secs]     loss: 0.17351
+[epoch:5  iter:10200  elapsed_time:3997 secs]     loss: 0.25116
+[epoch:5  iter:10400  elapsed_time:4008 secs]     loss: 0.26308
+[epoch:5  iter:10600  elapsed_time:4019 secs]     loss: 0.18842
+[epoch:5  iter:10800  elapsed_time:4031 secs]     loss: 0.21724
+[epoch:5  iter:11000  elapsed_time:4043 secs]     loss: 0.28448
+[epoch:5  iter:11200  elapsed_time:4055 secs]     loss: 0.21557
+[epoch:5  iter:11400  elapsed_time:4066 secs]     loss: 0.21369
+[epoch:5  iter:11600  elapsed_time:4078 secs]     loss: 0.17462
+[epoch:5  iter:11800  elapsed_time:4091 secs]     loss: 0.27750
+[epoch:5  iter:12000  elapsed_time:4103 secs]     loss: 0.23353
+[epoch:5  iter:12200  elapsed_time:4115 secs]     loss: 0.27872
+[epoch:5  iter:12400  elapsed_time:4127 secs]     loss: 0.19115
+[epoch:5  iter:12600  elapsed_time:4138 secs]     loss: 0.22253
+[epoch:5  iter:12800  elapsed_time:4151 secs]     loss: 0.14309
+[epoch:5  iter:13000  elapsed_time:4166 secs]     loss: 0.20296
+[epoch:5  iter:13200  elapsed_time:4179 secs]     loss: 0.33120
+[epoch:5  iter:13400  elapsed_time:4191 secs]     loss: 0.22999
+[epoch:5  iter:13600  elapsed_time:4203 secs]     loss: 0.24163
+[epoch:5  iter:13800  elapsed_time:4216 secs]     loss: 0.15457
+[epoch:5  iter:14000  elapsed_time:4230 secs]     loss: 0.33100
+[epoch:5  iter:14200  elapsed_time:4242 secs]     loss: 0.31689
+Total Training Time: 755787.2175510523
+
+Finished Training
+
+
